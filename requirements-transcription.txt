@@ -1,0 +1,2 @@
+# Optional; use a downloaded model directory with --transcribe-model.
+faster-whisper>=1.1,<2

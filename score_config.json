@@ -1,0 +1,8 @@
+{
+  "reference_width": 1920,
+  "reference_height": 1080,
+  "left": [800, 30, 44, 40],
+  "right": [1076, 30, 44, 40],
+  "step_s": 30,
+  "notes": "Calibrated HUD score crops for the supplied recording. OCR is provisional. Team mapping is supplied only by reviewed per-frame anchors."
+}

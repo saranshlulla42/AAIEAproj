@@ -1,0 +1,6 @@
+{
+  "reference_width": 1920,
+  "reference_height": 1080,
+  "facecam": [0, 92, 466, 226],
+  "notes": "Optional portrait layout calibrated to this VOD's facecam. Set facecam to null for full-frame padding only."
+}

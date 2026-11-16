@@ -1,0 +1,12 @@
+{
+  "player_name": "Me",
+  "reference_width": 1920,
+  "reference_height": 1080,
+  "killfeed": [1200, 85, 720, 135],
+  "health": [575, 1003, 82, 47],
+  "killer_max_x": 480,
+  "low_health": 40,
+  "sample_fps": 2,
+  "known_names": ["Me", "terror", "Cypher", "Reyna", "azrex", "Sova", "Jett", "Clove", "EG Derrek"],
+  "notes": "Calibrated for the supplied 1920x1080 s0m Clove VOD. Recalibrate for different recordings. HP is displayed health, not armor or effective health."
+}

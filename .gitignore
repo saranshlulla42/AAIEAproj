@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+runs/
+*.webm
+*.mp4
+*.mkv
+.env
+.pytest_cache/
